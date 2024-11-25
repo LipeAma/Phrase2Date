@@ -42,5 +42,6 @@ for filename in files:
         globals()[filename[:-5]] = json.load(file)
     os.remove(filename)
 
-formatOut = partial(hotvec2phrase, vocab=inv_machine_vocab)
-formatIn = partial(phrase2hotvec, vocab=human_vocab)
+format2Date = partial(hotvec2phrase, vocab=inv_machine_vocab)
+formatDate = partial(phrase2hotvec, vocab=machine_vocab)
+formatPhrase = partial(phrase2hotvec, vocab=human_vocab)
