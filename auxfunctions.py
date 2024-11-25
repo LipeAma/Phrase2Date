@@ -32,8 +32,11 @@ def hotvec2phrase(hotvec, vocab):
 
 files = ["human_vocab.json", "machine_vocab.json", "dataset.json", "inv_machine_vocab.json"]
 for filename in files:
-    path = "https://github.com/LipeAma/Phrase2Date/raw/refs/heads/main/json_data/" + filename
-    !wget $path
+    url = "https://github.com/LipeAma/Phrase2Date/raw/refs/heads/main/json_data/" + filename  # Local filename
+    with requests.get(url, stream=True) as r:
+        with open(filename, 'wb') as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                f.write(chunk)
     with open(filename, "r") as file:
         globals()[filename[:-5]] = json.load(file)
     os.remove(filename)
