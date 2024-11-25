@@ -43,5 +43,5 @@ for filename in files:
     os.remove(filename)
 
 format2Date = partial(hotvec2phrase, vocab=inv_machine_vocab)
-formatDate = partial(phrase2hotvec, vocab=machine_vocab)
+formatDate = partial(date2hotvec, vocab=machine_vocab)
 formatPhrase = partial(phrase2hotvec, vocab=human_vocab)
