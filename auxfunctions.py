@@ -1,5 +1,6 @@
 import json
 import os
+import requests
 from functools import partial
 from numpy import array
 
