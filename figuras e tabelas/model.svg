@@ -1,0 +1,2514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="export"
+   class="canvas"
+   preserveAspectRatio="xMidYMid meet"
+   style=""
+   width="3303"
+   height="3406"
+   version="1.1"
+   sodipodi:docname="my_model(6).keras.svg"
+   inkscape:export-filename="my_model(6).keras.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs275">
+    <linearGradient
+       id="swatch300"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#335588;stop-opacity:1;"
+         offset="0"
+         id="stop300" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="marker288"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path288" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker288-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path288-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-86" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker288-8-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path288-0-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker288-3-90-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path288-3-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-8-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-86-7-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-0-9-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-4-0-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker288-3-9-3-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path288-3-8-3-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-7-3-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-86-2-7-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-0-8-3-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-4-2-2-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-8-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-86-7-03" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-8-3-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-86-7-03-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-5-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-83"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-83-7-0-7-0-4-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-2-3-7-2-5-1-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-0-9-4-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-4-0-2-6" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview275"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.2495596"
+     inkscape:cx="1059.8671"
+     inkscape:cy="1450.5553"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g300" />
+  <rect
+     id="background"
+     fill="#ffffff"
+     pointer-events="all"
+     width="3303"
+     height="3406"
+     x="0"
+     y="0"
+     sodipodi:insensitive="true"
+     style="display:none" />
+  <g
+     id="origin"
+     transform="translate(150.106298828125, 150.106298828125) scale(1)">
+    <g
+       id="nodes"
+       class="nodes">
+      <g
+         id="input-name-Input-4"
+         class="node graph-input"
+         transform="matrix(2.9256004,0,0,2.9256004,-126.72616,1416.0135)">
+        <g
+           class="node-item graph-item-input"
+           id="g24-9">
+          <path
+             d="m 5,0 h 30.136002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:#eeeeee;stroke:#000000;stroke-width:0px"
+             id="path24-0" />
+          <text
+             x="6"
+             y="14.23"
+             style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+             id="text24-1"><tspan
+               sodipodi:role="line"
+               id="tspan295"
+               x="6"
+               y="14.23">Zeros</tspan></text>
+          <title
+             id="title24-2">float32</title>
+        </g>
+        <path
+           class="node node-border"
+           d="m 5,0 h 30.136002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+           style="fill:none;stroke:#333333;stroke-width:1px"
+           id="path25-0" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-start:url(#Triangle)"
+         d="M 88.813674,1446.4659 H 0.03799539"
+         id="path294" />
+      <g
+         id="input-name-Input-4-9"
+         class="node graph-input"
+         transform="matrix(2.9256004,0,0,2.9256004,-125.33559,662.55798)">
+        <g
+           class="node-item graph-item-input"
+           id="g24-9-18">
+          <path
+             d="m 5,0 h 30.136002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:#eeeeee;stroke:#000000;stroke-width:0px"
+             id="path24-0-8" />
+          <text
+             x="6"
+             y="14.23"
+             style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+             id="text24-1-7"><tspan
+               sodipodi:role="line"
+               id="tspan295-0"
+               x="6"
+               y="14.23">Zeros</tspan></text>
+          <title
+             id="title24-2-5">float32</title>
+        </g>
+        <path
+           class="node node-border"
+           d="m 5,0 h 30.136002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+           style="fill:none;stroke:#333333;stroke-width:1px"
+           id="path25-0-27" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-start:url(#Triangle-5)"
+         d="M 129.11183,693.01038 H 1.4285724"
+         id="path294-9" />
+      <g
+         id="g300"
+         transform="matrix(1.0601209,0,0,1.0601209,-32.865185,36.30399)">
+        <g
+           id="input-name-Input"
+           class="node graph-input"
+           transform="matrix(2.9256004,0,0,2.9256004,1450.6987,-67.680954)">
+          <g
+             class="node-item graph-item-input"
+             id="g24">
+            <path
+               d="m 5,0 h 30.136002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#eeeeee;stroke:#000000;stroke-width:0px"
+               id="path24" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+               id="text24">Input</text>
+            <title
+               id="title24">float32</title>
+          </g>
+          <path
+             class="node node-border"
+             d="m 5,0 h 30.136002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path25" />
+        </g>
+        <g
+           id="node-name-Encoder LSTM"
+           class="node graph-node"
+           transform="matrix(2.9256004,0,0,2.9256004,1399.5433,54.196257)">
+          <g
+             class="node-item node-item-type node-item-type-wrapper"
+             id="g26"
+             transform="translate(0,18.410695)">
+            <path
+               d="m 5,0 h 66.359005 a 5,5 0 0 1 5,5 V 20.32 H 0 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#eeeeee;stroke:#000000;stroke-width:0px"
+               id="path26" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#000000"
+               id="text26">Bidirectional</text>
+            <title
+               id="title26">Encoder LSTM</title>
+          </g>
+          <g
+             class="node-item node-item-type node-item-type-wrapper"
+             id="g26-6"
+             transform="matrix(1.0104686,0,0,1.0309093,-0.52101348,53.884832)">
+            <path
+               d="m 5,5.6237436 h 66.359005 a 5,5 0 0 0 5,-5.00000001 V -14.696256 H 0 V 0.62374359 A 5,5 0 0 0 5,5.6237436 Z"
+               style="fill:#335588;fill-opacity:1;stroke:#000000;stroke-width:0px"
+               id="path26-3" />
+            <title
+               id="title26-8">Encoder LSTM</title>
+          </g>
+          <g
+             class="node-item node-item-type node-item-type-layer"
+             transform="translate(0,38.730695)"
+             id="g27">
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text27">LSTM</text>
+            <title
+               id="title27">forward_lstm_18</title>
+          </g>
+          <line
+             class="node"
+             x1="0"
+             x2="76.359009"
+             y1="38.730694"
+             y2="38.730694"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="line27" />
+          <path
+             class="node node-border"
+             d="M 4.9241138,18.323373 H 71.434891 a 5.0114357,3.3982915 0 0 1 5.011436,3.398291 v 34.635387 a 5.0114357,3.3982915 0 0 1 -5.011436,3.398291 H 4.9241138 A 5.0114357,3.3982915 0 0 1 -0.08732192,56.357051 V 21.721664 A 5.0114357,3.3982915 0 0 1 4.9241138,18.323373 Z"
+             style="fill:none;stroke:#333333;stroke-width:0.825356px"
+             id="path29" />
+        </g>
+        <g
+           class="node"
+           transform="matrix(2.9256004,0,0,2.9256004,1448.5678,1604.3053)"
+           id="g275"
+           inkscape:label="stack">
+          <g
+             class="node-item graph-item-output"
+             id="g274">
+            <path
+               d="M 0.39569498,-0.35417731 H 37.071342 c 2.761424,0 5,2.23857631 5,5.00000001 V 14.965823 c 0,2.761424 -2.238576,5 -5,5 H 0.39569498 c -2.76142368,0 -4.99999998,-2.238576 -4.99999998,-5 V 4.6458227 c 0,-2.7614237 2.2385763,-5.00000001 4.99999998,-5.00000001 z"
+               style="fill:#eeeeee;stroke:#000000;stroke-width:0px"
+               id="path274"
+               sodipodi:nodetypes="sssssssss" />
+            <text
+               x="-0.021014441"
+               y="13.875822"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+               id="text274">Output</text>
+          </g>
+          <path
+             class="node node-border"
+             d="M 0.39569498,-0.35417731 H 37.159887 c 2.761423,0 5,2.23857631 5,5.00000001 V 14.965823 c 0,2.761424 -2.238577,5 -5,5 H 0.39569498 c -2.76142368,0 -4.99999998,-2.238576 -4.99999998,-5 V 4.6458227 c 0,-2.7614237 2.2385763,-5.00000001 4.99999998,-5.00000001 z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path275"
+             sodipodi:nodetypes="sssssssss" />
+        </g>
+        <g
+           id="g276-3-3"
+           inkscape:label="for"
+           transform="matrix(2.9256004,0,0,2.9256004,-4034.5541,-766.03811)">
+          <g
+             id="node-name-Repeat Vector[1]-6-0"
+             class="node graph-node"
+             transform="translate(1435.938,463.84)">
+            <g
+               class="node-item node-item-type"
+               id="g35-7-7">
+              <path
+                 d="M 5,0 H 84.587006 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path35-5-8" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text35-3-6">Repeat Vector</text>
+              <title
+                 id="title35-5-8">Repeat Vector[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(84.587006)"
+               id="g36-6-8">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path36-2-4" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text36-9-3">ƒ</text>
+              <title
+                 id="title36-1-1">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="84.587006"
+               x2="84.587006"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line36-2-4" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 94.296006 a 5,5 0 0 1 5.000004,5 v 10.32 a 5,5 0 0 1 -5.000004,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path37-7-9" />
+          </g>
+          <g
+             id="node-name-Concatenate[1]-0-2"
+             class="node graph-node"
+             transform="translate(1475.873,504.16)">
+            <g
+               class="node-item node-item-type"
+               id="g65-9-0">
+              <path
+                 d="M 5,0 H 76.865002 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path65-3-6" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text65-6-8">Concatenate</text>
+              <title
+                 id="title65-0-9">Concatenate[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(76.865002)"
+               id="g66-6-2">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path66-2-6" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text66-6-6">ƒ</text>
+              <title
+                 id="title66-1-4">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="76.865005"
+               x2="76.865005"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line66-8-9" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 86.574002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path67-7-5" />
+          </g>
+          <g
+             id="node-name-Attention Dense[1]-9-0"
+             class="node graph-node"
+             transform="translate(1466.644,544.48)">
+            <g
+               class="node-item node-item-type"
+               id="g95-2-4">
+              <path
+                 d="M 5,0 H 95.322998 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path95-0-8" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text95-2-7">Attention Dense</text>
+              <title
+                 id="title95-3-1">Attention Dense[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(95.322998)"
+               id="g96-7-7">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path96-5-2" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text96-9-7">ƒ</text>
+              <title
+                 id="title96-2-2">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="95.322998"
+               x2="95.322998"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line96-2-2" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 105.032 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path97-8-6" />
+          </g>
+          <g
+             id="node-name-Reshape[1]-9-1"
+             class="node graph-node"
+             transform="translate(1486.246,584.8)">
+            <g
+               class="node-item node-item-type"
+               id="g125-7-0">
+              <path
+                 d="M 5,0 H 56.118999 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path125-3-6" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text125-6-1">Reshape</text>
+              <title
+                 id="title125-1-5">Reshape[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(56.118999)"
+               id="g126-2-9">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path126-9-4" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text126-3-9">ƒ</text>
+              <title
+                 id="title126-1-0">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="56.118999"
+               x2="56.118999"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line126-9-9" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 65.828 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path127-4-1" />
+          </g>
+          <g
+             id="node-name-Softmax[1]-7-7"
+             class="node graph-node"
+             transform="translate(1486.598,625.12)">
+            <g
+               class="node-item node-item-type"
+               id="g155-8-7">
+              <path
+                 d="M 5,0 H 55.415001 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path155-4-1" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text155-5-1">Softmax</text>
+              <title
+                 id="title155-0-5">Softmax[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(55.415001)"
+               id="g156-3-9">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path156-6-7" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text156-1-7">ƒ</text>
+              <title
+                 id="title156-0-6">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="55.415001"
+               x2="55.415001"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line156-6-7" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 65.124001 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path157-3-3" />
+          </g>
+          <g
+             id="node-name-Dot[1]-2-6"
+             class="node graph-node"
+             transform="translate(1459.2855,665.43999)">
+            <g
+               class="node-item node-item-type"
+               id="g185-0-5">
+              <path
+                 d="M 5,0 H 32.524 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path185-6-6" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text185-1-3">Dot</text>
+              <title
+                 id="title185-5-9">Dot[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(32.524)"
+               id="g186-5-4">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path186-4-8" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text186-7-1">ƒ</text>
+              <title
+                 id="title186-6-2">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="32.524002"
+               x2="32.524002"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line186-5-9" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 42.233 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path187-6-3" />
+          </g>
+          <g
+             id="node-name-Decoder LSTM Cell[1]-9-9"
+             class="node graph-node"
+             transform="translate(1422.144,705.75999)">
+            <g
+               class="node-item node-item-type"
+               id="g215-3-0">
+              <path
+                 d="M 5,0 H 106.807 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path215-7-8" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text215-4-8">Decoder LSTM Cell</text>
+              <title
+                 id="title215-5-5">Decoder LSTM Cell[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(106.807)"
+               id="g216-2-0">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path216-5-9" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text216-4-6">ƒ</text>
+              <title
+                 id="title216-7-3">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="106.807"
+               x2="106.807"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line216-4-8" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 116.516 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path217-4-5" />
+          </g>
+          <g
+             id="node-name-Decoder Dense[0]-6"
+             class="node graph-node"
+             transform="translate(1432.495,747.37002)">
+            <g
+               class="node-item node-item-type"
+               id="g242-1">
+              <path
+                 d="M 5,0 H 89.514999 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path242-1" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text242-5">Decoder Dense</text>
+              <title
+                 id="title242-9">Decoder Dense[0]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(89.514999)"
+               id="g243-8">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path243-4" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text243-8">ƒ</text>
+              <title
+                 id="title243-1">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="89.514999"
+               x2="89.514999"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line243-0" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 99.224 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path244-3" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker288)"
+           d="m 293.87755,651.88561 115.75021,51.67255"
+           id="path280" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+           d="m 305.69114,1358.128 v 55.1941"
+           id="path286" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-8)"
+           d="m 307.35199,1238.9464 v 50.1974"
+           id="path286-3" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288)"
+           d="m 400.47648,1123.337 -82.17631,50.4224"
+           id="path287" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288)"
+           d="m 415.69458,1003.214 v 48.5025"
+           id="path289" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288)"
+           d="m 416.42745,885.98348 v 52.02105"
+           id="path290" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288)"
+           d="m 417.16001,769.48561 v 50.2297"
+           id="path291" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288)"
+           d="M 304.93457,1390.2111 H 646.34159 V 509.47568 h 254.89002 v 69.07729"
+           id="path292" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-start:url(#Triangle)"
+           d="M 428.30684,703.26932 552.9424,651.55482 V 395.85538"
+           id="path293" />
+        <g
+           id="g276-3-3-8"
+           inkscape:label="for"
+           transform="matrix(2.9256004,0,0,2.9256004,-3428.0236,-764.25141)">
+          <g
+             id="node-name-Repeat Vector[1]-6-0-8"
+             class="node graph-node"
+             transform="translate(1435.938,463.84)">
+            <g
+               class="node-item node-item-type"
+               id="g35-7-7-9">
+              <path
+                 d="M 5,0 H 84.587006 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path35-5-8-7" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text35-3-6-7">Repeat Vector</text>
+              <title
+                 id="title35-5-8-6">Repeat Vector[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(84.587006)"
+               id="g36-6-8-4">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path36-2-4-3" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text36-9-3-0">ƒ</text>
+              <title
+                 id="title36-1-1-3">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="84.587006"
+               x2="84.587006"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line36-2-4-0" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 94.296006 a 5,5 0 0 1 5.000004,5 v 10.32 a 5,5 0 0 1 -5.000004,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path37-7-9-9" />
+          </g>
+          <g
+             id="node-name-Concatenate[1]-0-2-2"
+             class="node graph-node"
+             transform="translate(1475.873,504.16)">
+            <g
+               class="node-item node-item-type"
+               id="g65-9-0-5">
+              <path
+                 d="M 5,0 H 76.865002 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path65-3-6-4" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text65-6-8-0">Concatenate</text>
+              <title
+                 id="title65-0-9-5">Concatenate[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(76.865002)"
+               id="g66-6-2-9">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path66-2-6-4" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text66-6-6-6">ƒ</text>
+              <title
+                 id="title66-1-4-9">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="76.865005"
+               x2="76.865005"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line66-8-9-2" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 86.574002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path67-7-5-2" />
+          </g>
+          <g
+             id="node-name-Attention Dense[1]-9-0-4"
+             class="node graph-node"
+             transform="translate(1466.644,544.48)">
+            <g
+               class="node-item node-item-type"
+               id="g95-2-4-7">
+              <path
+                 d="M 5,0 H 95.322998 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path95-0-8-7" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text95-2-7-5">Attention Dense</text>
+              <title
+                 id="title95-3-1-4">Attention Dense[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(95.322998)"
+               id="g96-7-7-8">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path96-5-2-1" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text96-9-7-2">ƒ</text>
+              <title
+                 id="title96-2-2-8">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="95.322998"
+               x2="95.322998"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line96-2-2-9" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 105.032 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path97-8-6-3" />
+          </g>
+          <g
+             id="node-name-Reshape[1]-9-1-6"
+             class="node graph-node"
+             transform="translate(1486.246,584.8)">
+            <g
+               class="node-item node-item-type"
+               id="g125-7-0-8">
+              <path
+                 d="M 5,0 H 56.118999 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path125-3-6-0" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text125-6-1-2">Reshape</text>
+              <title
+                 id="title125-1-5-1">Reshape[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(56.118999)"
+               id="g126-2-9-0">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path126-9-4-5" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text126-3-9-1">ƒ</text>
+              <title
+                 id="title126-1-0-1">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="56.118999"
+               x2="56.118999"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line126-9-9-0" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 65.828 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path127-4-1-8" />
+          </g>
+          <g
+             id="node-name-Softmax[1]-7-7-5"
+             class="node graph-node"
+             transform="translate(1486.598,625.12)">
+            <g
+               class="node-item node-item-type"
+               id="g155-8-7-0">
+              <path
+                 d="M 5,0 H 55.415001 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path155-4-1-6" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text155-5-1-4">Softmax</text>
+              <title
+                 id="title155-0-5-6">Softmax[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(55.415001)"
+               id="g156-3-9-2">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path156-6-7-5" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text156-1-7-8">ƒ</text>
+              <title
+                 id="title156-0-6-6">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="55.415001"
+               x2="55.415001"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line156-6-7-2" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 65.124001 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path157-3-3-8" />
+          </g>
+          <g
+             id="node-name-Dot[1]-2-6-4"
+             class="node graph-node"
+             transform="translate(1459.2855,665.43999)">
+            <g
+               class="node-item node-item-type"
+               id="g185-0-5-7">
+              <path
+                 d="M 5,0 H 32.524 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path185-6-6-2" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text185-1-3-4">Dot</text>
+              <title
+                 id="title185-5-9-0">Dot[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(32.524)"
+               id="g186-5-4-6">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path186-4-8-2" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text186-7-1-9">ƒ</text>
+              <title
+                 id="title186-6-2-9">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="32.524002"
+               x2="32.524002"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line186-5-9-0" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 42.233 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path187-6-3-8" />
+          </g>
+          <g
+             id="node-name-Decoder LSTM Cell[1]-9-9-1"
+             class="node graph-node"
+             transform="translate(1422.144,705.75999)">
+            <g
+               class="node-item node-item-type"
+               id="g215-3-0-3">
+              <path
+                 d="M 5,0 H 106.807 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path215-7-8-1" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text215-4-8-1">Decoder LSTM Cell</text>
+              <title
+                 id="title215-5-5-0">Decoder LSTM Cell[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(106.807)"
+               id="g216-2-0-3">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path216-5-9-4" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text216-4-6-0">ƒ</text>
+              <title
+                 id="title216-7-3-3">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="106.807"
+               x2="106.807"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line216-4-8-9" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 116.516 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path217-4-5-1" />
+          </g>
+          <g
+             id="node-name-Decoder Dense[0]-6-9"
+             class="node graph-node"
+             transform="translate(1432.495,747.37002)">
+            <g
+               class="node-item node-item-type"
+               id="g242-1-6">
+              <path
+                 d="M 5,0 H 89.514999 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path242-1-9" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text242-5-3">Decoder Dense</text>
+              <title
+                 id="title242-9-3">Decoder Dense[0]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(89.514999)"
+               id="g243-8-8">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path243-4-0" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text243-8-5">ƒ</text>
+              <title
+                 id="title243-1-6">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="89.514999"
+               x2="89.514999"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line243-0-6" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 99.224 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path244-3-4" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker288-3)"
+           d="m 900.40804,653.67231 115.75026,51.67254"
+           id="path280-0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3)"
+           d="m 912.22161,1359.9147 v 55.1942"
+           id="path286-0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-8-0)"
+           d="m 913.8825,1240.7332 v 50.1973"
+           id="path286-3-4" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3)"
+           d="m 1007.0069,1125.1237 -82.17627,50.4224"
+           id="path287-6" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3)"
+           d="m 1022.2251,1005.0007 v 48.5025"
+           id="path289-2" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3)"
+           d="m 1022.9579,887.77017 v 52.02101"
+           id="path290-6" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3)"
+           d="M 1023.6905,771.27231 V 821.502"
+           id="path291-7" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.83582;stroke-dasharray:none;marker-end:url(#marker288-3)"
+           d="M 911.50359,1392.0371 H 1236.7921 V 511.22297 h 242.8561 v 776.57063"
+           id="path292-5"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-start:url(#Triangle-3)"
+           d="m 1034.8373,705.05602 124.6356,-51.7145 V 397.64208"
+           id="path293-6" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-8-3)"
+           d="m 1506.3254,1535.0533 v 55.1942"
+           id="path286-0-4-3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-8-3-9)"
+           d="M 1506.947,-6.6060268 V 90.123287"
+           id="path286-0-4-3-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-8-5)"
+           d="m 1597.0776,1332.8318 h 158.551 V 507.64325 h 222.5753 v 69.15359"
+           id="path292-0-5"
+           sodipodi:nodetypes="ccccc" />
+        <g
+           id="g276-3-3-8-7-4"
+           inkscape:label="for"
+           transform="matrix(2.9256004,0,0,2.9256004,-2363.4385,-765.59743)">
+          <g
+             id="node-name-Repeat Vector[1]-6-0-8-7-8"
+             class="node graph-node"
+             transform="translate(1435.938,463.84)">
+            <g
+               class="node-item node-item-type"
+               id="g35-7-7-9-2-8">
+              <path
+                 d="M 5,0 H 84.587006 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path35-5-8-7-6-3" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text35-3-6-7-4-8">Repeat Vector</text>
+              <title
+                 id="title35-5-8-6-5-7">Repeat Vector[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(84.587006)"
+               id="g36-6-8-4-2-5">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path36-2-4-3-0-2" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text36-9-3-0-29-4">ƒ</text>
+              <title
+                 id="title36-1-1-3-0-5">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="84.587006"
+               x2="84.587006"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line36-2-4-0-9-0" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 94.296006 a 5,5 0 0 1 5.000004,5 v 10.32 a 5,5 0 0 1 -5.000004,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path37-7-9-9-94-5" />
+          </g>
+          <g
+             id="node-name-Concatenate[1]-0-2-2-5-7"
+             class="node graph-node"
+             transform="translate(1475.873,504.16)">
+            <g
+               class="node-item node-item-type"
+               id="g65-9-0-5-10-3">
+              <path
+                 d="M 5,0 H 76.865002 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path65-3-6-4-3-2" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text65-6-8-0-7-7">Concatenate</text>
+              <title
+                 id="title65-0-9-5-8-2">Concatenate[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(76.865002)"
+               id="g66-6-2-9-8-1">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path66-2-6-4-6-3" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text66-6-6-6-0-4">ƒ</text>
+              <title
+                 id="title66-1-4-9-4-9">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="76.865005"
+               x2="76.865005"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line66-8-9-2-6-4" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 86.574002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path67-7-5-2-7-1" />
+          </g>
+          <g
+             id="node-name-Attention Dense[1]-9-0-4-6-9"
+             class="node graph-node"
+             transform="translate(1466.644,544.48)">
+            <g
+               class="node-item node-item-type"
+               id="g95-2-4-7-0-5">
+              <path
+                 d="M 5,0 H 95.322998 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path95-0-8-7-9-7" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text95-2-7-5-7-4">Attention Dense</text>
+              <title
+                 id="title95-3-1-4-5-1">Attention Dense[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(95.322998)"
+               id="g96-7-7-8-97-2">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path96-5-2-1-8-2" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text96-9-7-2-5-1">ƒ</text>
+              <title
+                 id="title96-2-2-8-3-6">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="95.322998"
+               x2="95.322998"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line96-2-2-9-3-2" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 105.032 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path97-8-6-3-8-0" />
+          </g>
+          <g
+             id="node-name-Reshape[1]-9-1-6-3-2"
+             class="node graph-node"
+             transform="translate(1486.246,584.8)">
+            <g
+               class="node-item node-item-type"
+               id="g125-7-0-8-7-2">
+              <path
+                 d="M 5,0 H 56.118999 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path125-3-6-0-9-9" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text125-6-1-2-3-7">Reshape</text>
+              <title
+                 id="title125-1-5-1-7-4">Reshape[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(56.118999)"
+               id="g126-2-9-0-8-3">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path126-9-4-5-7-5" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text126-3-9-1-4-6">ƒ</text>
+              <title
+                 id="title126-1-0-1-1-1">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="56.118999"
+               x2="56.118999"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line126-9-9-0-9-4" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 65.828 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path127-4-1-8-0-0" />
+          </g>
+          <g
+             id="node-name-Softmax[1]-7-7-5-9-3"
+             class="node graph-node"
+             transform="translate(1486.598,625.12)">
+            <g
+               class="node-item node-item-type"
+               id="g155-8-7-0-8-1">
+              <path
+                 d="M 5,0 H 55.415001 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path155-4-1-6-8-2" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text155-5-1-4-5-7">Softmax</text>
+              <title
+                 id="title155-0-5-6-8-7">Softmax[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(55.415001)"
+               id="g156-3-9-2-4-9">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path156-6-7-5-3-8" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text156-1-7-8-7-1">ƒ</text>
+              <title
+                 id="title156-0-6-6-1-0">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="55.415001"
+               x2="55.415001"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line156-6-7-2-3-7" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 65.124001 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path157-3-3-8-8-6" />
+          </g>
+          <g
+             id="node-name-Dot[1]-2-6-4-0-0"
+             class="node graph-node"
+             transform="translate(1459.2855,665.43999)">
+            <g
+               class="node-item node-item-type"
+               id="g185-0-5-7-97-1">
+              <path
+                 d="M 5,0 H 32.524 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path185-6-6-2-99-0" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text185-1-3-4-32-2">Dot</text>
+              <title
+                 id="title185-5-9-0-4-5">Dot[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(32.524)"
+               id="g186-5-4-6-3-1">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path186-4-8-2-7-9" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text186-7-1-9-1-7">ƒ</text>
+              <title
+                 id="title186-6-2-9-22-1">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="32.524002"
+               x2="32.524002"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line186-5-9-0-0-3" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 42.233 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path187-6-3-8-2-1" />
+          </g>
+          <g
+             id="node-name-Decoder LSTM Cell[1]-9-9-1-1-2"
+             class="node graph-node"
+             transform="translate(1422.144,705.75999)">
+            <g
+               class="node-item node-item-type"
+               id="g215-3-0-3-7-0">
+              <path
+                 d="M 5,0 H 106.807 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path215-7-8-1-5-6" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text215-4-8-1-1-8">Decoder LSTM Cell</text>
+              <title
+                 id="title215-5-5-0-7-7">Decoder LSTM Cell[1]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(106.807)"
+               id="g216-2-0-3-4-4">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path216-5-9-4-17-9" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text216-4-6-0-1-2">ƒ</text>
+              <title
+                 id="title216-7-3-3-1-4">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="106.807"
+               x2="106.807"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line216-4-8-9-1-4" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 116.516 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path217-4-5-1-7-5" />
+          </g>
+          <g
+             id="node-name-Decoder Dense[0]-6-9-0-9"
+             class="node graph-node"
+             transform="translate(1432.495,747.37002)">
+            <g
+               class="node-item node-item-type"
+               id="g242-1-6-4-1">
+              <path
+                 d="M 5,0 H 89.514999 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path242-1-9-0-2" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text242-5-3-8-8">Decoder Dense</text>
+              <title
+                 id="title242-9-3-5-9">Decoder Dense[0]</title>
+            </g>
+            <g
+               class="node-item node-item-type"
+               transform="translate(89.514999)"
+               id="g243-8-8-1-6">
+              <path
+                 d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+                 style="fill:#000000;stroke:#000000;stroke-width:0px"
+                 id="path243-4-0-6-0" />
+              <text
+                 x="6"
+                 y="14.23"
+                 style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+                 id="text243-8-5-6-6">ƒ</text>
+              <title
+                 id="title243-1-6-2-4">Show Function Definition</title>
+            </g>
+            <line
+               class="node"
+               x1="89.514999"
+               x2="89.514999"
+               y1="0"
+               y2="20.32"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="line243-0-6-1-0" />
+            <path
+               class="node node-border"
+               d="m 5,0 h 99.224 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:none;stroke:#333333;stroke-width:1px"
+               id="path244-3-4-9-9" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker288-3-90-6)"
+           d="m 1964.9931,652.32631 115.75,51.67252"
+           id="path280-0-6-4" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-8-1)"
+           d="m 1976.8067,1358.5687 v 55.1941"
+           id="path286-0-4-5" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-8-0-9-4)"
+           d="m 1978.4675,1239.3871 v 50.1974"
+           id="path286-3-4-8-4" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-8-0-9-4-4)"
+           d="m 1535.7191,395.98159 0,891.56491"
+           id="path286-3-4-8-4-6"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3-90-6)"
+           d="m 2071.5918,1123.7777 -82.1761,50.4224"
+           id="path287-6-0-6" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3-90-6)"
+           d="m 2086.81,1003.6547 v 48.5025"
+           id="path289-2-8-6" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3-90-6)"
+           d="m 2087.5427,886.42416 v 52.02107"
+           id="path290-6-1-3" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3-90-6)"
+           d="M 2088.2754,769.92631 V 820.156"
+           id="path291-7-0-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3-90-6)"
+           d="m 1976.0502,1390.6517 h 341.4067 V 509.91638 h 254.8901 v 69.07727"
+           id="path292-5-2-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-start:url(#Triangle-3-8-1)"
+           d="m 2099.4221,703.71 124.6357,-51.7145 V 396.29606"
+           id="path293-6-2-5" />
+        <g
+           id="node-name-Repeat Vector[1]-6-0-8-6-5-3"
+           class="node graph-node"
+           transform="matrix(2.9256004,0,0,2.9256004,2430.2348,588.72439)">
+          <g
+             class="node-item node-item-type"
+             id="g35-7-7-9-0-6-0">
+            <path
+               d="M 5,0 H 84.587006 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path35-5-8-7-2-4-9" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text35-3-6-7-7-6-9">Repeat Vector</text>
+            <title
+               id="title35-5-8-6-6-3-1">Repeat Vector[1]</title>
+          </g>
+          <g
+             class="node-item node-item-type"
+             transform="translate(84.587006)"
+             id="g36-6-8-4-1-7-3">
+            <path
+               d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path36-2-4-3-3-9-4" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text36-9-3-0-2-7-5">ƒ</text>
+            <title
+               id="title36-1-1-3-1-4-8">Show Function Definition</title>
+          </g>
+          <line
+             class="node"
+             x1="84.587006"
+             x2="84.587006"
+             y1="0"
+             y2="20.32"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="line36-2-4-0-5-9-5" />
+          <path
+             class="node node-border"
+             d="m 5,0 h 94.296006 a 5,5 0 0 1 5.000004,5 v 10.32 a 5,5 0 0 1 -5.000004,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path37-7-9-9-9-1-7" />
+        </g>
+        <g
+           id="node-name-Concatenate[1]-0-2-2-9-7-3"
+           class="node graph-node"
+           transform="matrix(2.9256004,0,0,2.9256004,2547.0687,706.6846)">
+          <g
+             class="node-item node-item-type"
+             id="g65-9-0-5-1-0-3">
+            <path
+               d="M 5,0 H 76.865002 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path65-3-6-4-4-6-8" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text65-6-8-0-9-0-9">Concatenate</text>
+            <title
+               id="title65-0-9-5-1-8-5">Concatenate[1]</title>
+          </g>
+          <g
+             class="node-item node-item-type"
+             transform="translate(76.865002)"
+             id="g66-6-2-9-0-5-5">
+            <path
+               d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path66-2-6-4-7-3-3" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text66-6-6-6-5-9-8">ƒ</text>
+            <title
+               id="title66-1-4-9-8-4-6">Show Function Definition</title>
+          </g>
+          <line
+             class="node"
+             x1="76.865005"
+             x2="76.865005"
+             y1="0"
+             y2="20.32"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="line66-8-9-2-7-1-0" />
+          <path
+             class="node node-border"
+             d="m 5,0 h 86.574002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path67-7-5-2-0-5-3" />
+        </g>
+        <g
+           id="node-name-Attention Dense[1]-9-0-4-4-4-3"
+           class="node graph-node"
+           transform="matrix(2.9256004,0,0,2.9256004,2520.0683,824.64481)">
+          <g
+             class="node-item node-item-type"
+             id="g95-2-4-7-8-1-6">
+            <path
+               d="M 5,0 H 95.322998 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path95-0-8-7-0-5-1" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text95-2-7-5-4-5-8">Attention Dense</text>
+            <title
+               id="title95-3-1-4-2-4-7">Attention Dense[1]</title>
+          </g>
+          <g
+             class="node-item node-item-type"
+             transform="translate(95.322998)"
+             id="g96-7-7-8-9-9-0">
+            <path
+               d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path96-5-2-1-6-8-5" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text96-9-7-2-1-3-1">ƒ</text>
+            <title
+               id="title96-2-2-8-0-8-1">Show Function Definition</title>
+          </g>
+          <line
+             class="node"
+             x1="95.322998"
+             x2="95.322998"
+             y1="0"
+             y2="20.32"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="line96-2-2-9-4-5-0" />
+          <path
+             class="node node-border"
+             d="m 5,0 h 105.032 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path97-8-6-3-2-2-3" />
+        </g>
+        <g
+           id="node-name-Reshape[1]-9-1-6-2-2-0"
+           class="node graph-node"
+           transform="matrix(2.9256004,0,0,2.9256004,2577.4159,942.60501)">
+          <g
+             class="node-item node-item-type"
+             id="g125-7-0-8-2-2-0">
+            <path
+               d="M 5,0 H 56.118999 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path125-3-6-0-0-7-4" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text125-6-1-2-5-0-5">Reshape</text>
+            <title
+               id="title125-1-5-1-5-3-4">Reshape[1]</title>
+          </g>
+          <g
+             class="node-item node-item-type"
+             transform="translate(56.118999)"
+             id="g126-2-9-0-2-4-2">
+            <path
+               d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path126-9-4-5-9-6-4" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text126-3-9-1-0-3-9">ƒ</text>
+            <title
+               id="title126-1-0-1-2-6-9">Show Function Definition</title>
+          </g>
+          <line
+             class="node"
+             x1="56.118999"
+             x2="56.118999"
+             y1="0"
+             y2="20.32"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="line126-9-9-0-8-3-9" />
+          <path
+             class="node node-border"
+             d="m 5,0 h 65.828 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path127-4-1-8-3-3-4" />
+        </g>
+        <g
+           id="node-name-Softmax[1]-7-7-5-8-4-9"
+           class="node graph-node"
+           transform="matrix(2.9256004,0,0,2.9256004,2578.4456,1060.5652)">
+          <g
+             class="node-item node-item-type"
+             id="g155-8-7-0-0-4-8">
+            <path
+               d="M 5,0 H 55.415001 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path155-4-1-6-4-3-1" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text155-5-1-4-0-9-6">Softmax</text>
+            <title
+               id="title155-0-5-6-9-7-3">Softmax[1]</title>
+          </g>
+          <g
+             class="node-item node-item-type"
+             transform="translate(55.415001)"
+             id="g156-3-9-2-1-2-9">
+            <path
+               d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path156-6-7-5-9-5-3" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text156-1-7-8-6-8-3">ƒ</text>
+            <title
+               id="title156-0-6-6-2-9-4">Show Function Definition</title>
+          </g>
+          <line
+             class="node"
+             x1="55.415001"
+             x2="55.415001"
+             y1="0"
+             y2="20.32"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="line156-6-7-2-5-0-6" />
+          <path
+             class="node node-border"
+             d="m 5,0 h 65.124001 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path157-3-3-8-4-2-1" />
+        </g>
+        <g
+           id="node-name-Dot[1]-2-6-4-4-4-5"
+           class="node graph-node"
+           transform="matrix(2.9256004,0,0,2.9256004,2498.5402,1178.5254)">
+          <g
+             class="node-item node-item-type"
+             id="g185-0-5-7-9-7-6">
+            <path
+               d="M 5,0 H 32.524 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path185-6-6-2-9-6-1" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text185-1-3-4-3-5-7">Dot</text>
+            <title
+               id="title185-5-9-0-6-7-2">Dot[1]</title>
+          </g>
+          <g
+             class="node-item node-item-type"
+             transform="translate(32.524)"
+             id="g186-5-4-6-0-1-2">
+            <path
+               d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path186-4-8-2-5-3-9" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text186-7-1-9-0-3-2">ƒ</text>
+            <title
+               id="title186-6-2-9-2-3-8">Show Function Definition</title>
+          </g>
+          <line
+             class="node"
+             x1="32.524002"
+             x2="32.524002"
+             y1="0"
+             y2="20.32"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="line186-5-9-0-9-8-1" />
+          <path
+             class="node node-border"
+             d="m 5,0 h 42.233 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path187-6-3-8-4-5-2" />
+        </g>
+        <g
+           id="node-name-Decoder LSTM Cell[1]-9-9-1-3-1-4"
+           class="node graph-node"
+           transform="matrix(2.9256004,0,0,2.9256004,2389.879,1296.4856)">
+          <g
+             class="node-item node-item-type"
+             id="g215-3-0-3-5-0-7">
+            <path
+               d="M 5,0 H 106.807 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path215-7-8-1-1-8-8" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text215-4-8-1-7-7-6">Decoder LSTM Cell</text>
+            <title
+               id="title215-5-5-0-4-6-3">Decoder LSTM Cell[1]</title>
+          </g>
+          <g
+             class="node-item node-item-type"
+             transform="translate(106.807)"
+             id="g216-2-0-3-3-3-7">
+            <path
+               d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path216-5-9-4-1-5-7" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text216-4-6-0-4-0-2">ƒ</text>
+            <title
+               id="title216-7-3-3-6-8-3">Show Function Definition</title>
+          </g>
+          <line
+             class="node"
+             x1="106.807"
+             x2="106.807"
+             y1="0"
+             y2="20.32"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="line216-4-8-9-9-0-7" />
+          <path
+             class="node node-border"
+             d="m 5,0 h 116.516 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path217-4-5-1-4-4-2" />
+        </g>
+        <g
+           id="node-name-Decoder Dense[0]-6-9-2-1-5"
+           class="node graph-node"
+           transform="matrix(2.9256004,0,0,2.9256004,2420.162,1418.2199)">
+          <g
+             class="node-item node-item-type"
+             id="g242-1-6-2-1-3">
+            <path
+               d="M 5,0 H 89.514999 V 20.32 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path242-1-9-6-3-7" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text242-5-3-4-5-6">Decoder Dense</text>
+            <title
+               id="title242-9-3-1-9-8">Decoder Dense[0]</title>
+          </g>
+          <g
+             class="node-item node-item-type"
+             transform="translate(89.514999)"
+             id="g243-8-8-2-3-1">
+            <path
+               d="m 0,0 h 14.709 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 0 Z"
+               style="fill:#000000;stroke:#000000;stroke-width:0px"
+               id="path243-4-0-8-4-3" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#ffffff"
+               id="text243-8-5-8-1-6">ƒ</text>
+            <title
+               id="title243-1-6-9-5-4">Show Function Definition</title>
+          </g>
+          <line
+             class="node"
+             x1="89.514999"
+             x2="89.514999"
+             y1="0"
+             y2="20.32"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="line243-0-6-2-0-0" />
+          <path
+             class="node node-border"
+             d="m 5,0 h 99.224 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path244-3-4-8-8-3" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker288-3-9-3-7)"
+           d="m 2557.6856,649.63765 115.7502,51.67254"
+           id="path280-0-8-3-5" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-7-3-0)"
+           d="m 2569.4992,1355.8801 v 55.1941"
+           id="path286-0-8-5-8" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 306.45065,1480.3407 v 55.1941"
+           id="path286-35" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 912.98118,1482.1274 v 55.1941"
+           id="path286-0-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1977.5661,1480.7813 v 55.1942"
+           id="path286-0-4-5-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2570.2586,1478.0927 v 55.1941"
+           id="path286-0-8-5-8-0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-8-0-8-3-2)"
+           d="m 2571.16,1236.6985 v 50.1974"
+           id="path286-3-4-6-6-5" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3-9-3-7)"
+           d="m 2664.2845,1121.0891 -82.1763,50.4224"
+           id="path287-6-8-5-0" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3-9-3-7)"
+           d="m 2679.5027,1000.966 v 48.5025"
+           id="path289-2-3-9-9" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3-9-3-7)"
+           d="m 2680.2356,883.7355 v 52.02102"
+           id="path290-6-8-9-9" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#marker288-3-9-3-7)"
+           d="m 2680.9681,767.23765 v 50.22969"
+           id="path291-7-3-0-8" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-start:url(#Triangle-3-7-3-0)"
+           d="m 2692.1148,701.02134 124.6357,-51.71448 v -254.6664"
+           id="path293-6-3-6-2"
+           sodipodi:nodetypes="ccc" />
+        <g
+           id="input-name-Input-4-6"
+           class="node graph-input"
+           transform="matrix(2.9256004,0,0,2.9256004,1178.447,162.80969)">
+          <g
+             class="node-item graph-item-input"
+             id="g24-9-1">
+            <path
+               d="m 5,0 h 30.136002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#eeeeee;stroke:#000000;stroke-width:0px"
+               id="path24-0-1" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+               id="text24-1-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan295-3"
+                 x="6"
+                 y="14.23">Zeros</tspan></text>
+            <title
+               id="title24-2-7">float32</title>
+          </g>
+          <path
+             class="node node-border"
+             d="m 5,0 h 30.136002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path25-0-2" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-start:url(#Triangle-9)"
+           d="m 1385.6974,193.26209 h -88.7755"
+           id="path294-7" />
+        <g
+           id="input-name-Input-4-6-9"
+           class="node graph-input"
+           transform="matrix(2.9256004,0,0,2.9256004,1720.695,162.52235)">
+          <g
+             class="node-item graph-item-input"
+             id="g24-9-1-2">
+            <path
+               d="m 5,0 h 30.136002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+               style="fill:#eeeeee;stroke:#000000;stroke-width:0px"
+               id="path24-0-1-4" />
+            <text
+               x="6"
+               y="14.23"
+               style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+               id="text24-1-4-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan295-3-4"
+                 x="6"
+                 y="14.23">Zeros</tspan></text>
+            <title
+               id="title24-2-7-9">float32</title>
+          </g>
+          <path
+             class="node node-border"
+             d="m 5,0 h 30.136002 a 5,5 0 0 1 5,5 v 10.32 a 5,5 0 0 1 -5,5 H 5 a 5,5 0 0 1 -5,-5 V 5 A 5,5 0 0 1 5,0 Z"
+             style="fill:none;stroke:#333333;stroke-width:1px"
+             id="path25-0-2-9" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-start:url(#Triangle-9-3)"
+           d="m 1633.8099,191.93858 h 87.2349"
+           id="path294-7-3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.87628;stroke-dasharray:none"
+           d="m 2571.1443,1533.9286 -2265.65683,0.9662"
+           id="path296" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88027;stroke-dasharray:none"
+           d="M 2817.697,395.57975 552.88925,396.54077"
+           id="path296-7" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none"
+           d="M 1507.7775,234.22622 V 396.15089"
+           id="path297" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#Triangle)"
+           d="M 495.55805,1329.2614 H 721.84201"
+           id="path298" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#Triangle-83)"
+           d="m 1103.2663,1330.0764 h 309.1131"
+           id="path298-9"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88067;stroke-dasharray:none;marker-end:url(#Triangle-83-7-0-7-0-4-2)"
+           d="m 2169.466,1328.0337 h 208.2059"
+           id="path298-9-9-2-9-0-7-2" />
+        <circle
+           id="path299"
+           style="fill:#000000;stroke:#000000;stroke-width:11.6541"
+           cx="1333.478"
+           cy="-1562.7461"
+           r="6.2124372"
+           transform="rotate(90)" />
+        <circle
+           id="path299-1"
+           style="fill:#000000;stroke:#000000;stroke-width:11.6541"
+           cx="1333.478"
+           cy="-1452.9934"
+           r="6.2124372"
+           transform="rotate(90)" />
+        <circle
+           id="path299-1-9"
+           style="fill:#000000;stroke:#000000;stroke-width:11.6541"
+           cx="1333.478"
+           cy="-1507.8698"
+           r="6.2124372"
+           transform="rotate(90)" />
+      </g>
+    </g>
+  </g>
+</svg>
